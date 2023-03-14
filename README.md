@@ -1,1 +1,1 @@
-# Valerie827.github.io
+# Creating personal webpage for STAT1013 
