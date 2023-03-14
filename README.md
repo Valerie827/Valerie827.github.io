@@ -1,1 +1,2 @@
-# Creating personal webpage for STAT1013 
+# STAT1013: Data Science Toolbox
+## 📝 Creating personal webpage
